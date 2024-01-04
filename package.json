@@ -1,0 +1,15 @@
+{
+  "name": "free-chat-voice-call",
+  "version": "1.0.0",
+  "description": "voice call server for rtc connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.16.0"
+  }
+}
